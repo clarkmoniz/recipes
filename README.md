@@ -1,6 +1,6 @@
 This project is a basic recipe website using HTML and CSS.
 
-The purpose of this project is to revisit the basics of HTMl and CSS.
+The purpose of this project is to revisit the basics of HTML and CSS.
 
 It consists of a main index page which has links to a few recipes. The website displays the bare minimum with its markup and styling.
 
